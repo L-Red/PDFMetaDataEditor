@@ -1,5 +1,7 @@
 # PDFMetaDataEditor
-If you're like me you like to read a lot. I find myself downloading a lot of texts, short stories, articles and essays from the internet in the form of PDFs. And if you're like me, you like to read your texts on an e-reader. If a downloaded text stems from a poorly managed or obscure source, it's meta-data such as author, title, etc. will be incorrectly set or not set at all. 
+If you're like me you like to read a lot. I find myself downloading a lot of texts, short stories, articles and essays from the internet in the form of PDFs. And if you're like me, you like to read your texts on an e-reader. 
+
+But if a downloaded text stems from a poorly managed or obscure source, it's meta-data such as author, title, etc. will be incorrectly set or not set at all. 
 In my opinion, it makes for a much more enjoyable experience if your files are organized with the correct metadata. This is why I created this app. 
 It is not complex nor highly functional, and it would take you no more than 60 minutes to code from scratch if you have some coding experience.
 But let me save you 60 minutes!
